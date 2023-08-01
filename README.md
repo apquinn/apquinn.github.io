@@ -1,6 +1,6 @@
 # apquinn.github.io
 
-## This is Andrew Quinn's github homepage. For a complete bio, see <a href="sea-quinn.com">sea-quinn.com</a>
+## This is Andrew Quinn's github homepage. For a complete bio, see <a href="http://sea-quinn.com">sea-quinn.com</a>
 <img src="CIMG0130.JPG" width="400">
 
 ### MIT projects
