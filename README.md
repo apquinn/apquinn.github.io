@@ -4,7 +4,7 @@
 <img src="CIMG0130.JPG" width="400">
 
 ### MIT projects
-<a href="https://github.com/apquinn/example-code/tree/main/mit-projects">view all projects</a>
+<a href="https://github.com/apquinn/example-code/tree/main/mit-projects">View all projects</a>
 
 ### PHP projects
 <a href="https://github.com/apquinn/example-code/tree/main/php">PHP common code classes used by the entire web systems department</a>
