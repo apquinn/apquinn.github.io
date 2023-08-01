@@ -1,6 +1,7 @@
 # apquinn.github.io
 
 ## This is Andrew Quinn's github homepage
+<img src="CIMG0130.JPG" width="400">
 
 ### MIT projects
 <a href="https://github.com/apquinn/example-code/tree/main/mit-projects">view all projects</a>
