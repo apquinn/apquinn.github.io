@@ -1,3 +1,3 @@
 # apquinn.github.io
 
-# This is Andrew Quinn's github homepage
+## This is Andrew Quinn's github homepage
