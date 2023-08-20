@@ -2,7 +2,7 @@
 
 ## This is Andrew Quinn's github homepage. For a complete bio, see <a href="http://sea-quinn.com">my full bio</a>.
 <img src="CIMG0130.JPG" width="400">
-<img src="blockie.png">
+<img src="blockie.jpg">
 
 ### MIT projects
 <a href="https://github.com/apquinn/example-code/tree/main/mit-projects">View all projects</a>
