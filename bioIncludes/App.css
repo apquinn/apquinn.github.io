@@ -36,21 +36,18 @@ body {
 .header-black-background img {
 }
 
-.header-text-wrapper {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  top: 10%;
-}
-.header-text-wrapper h3,
-h1 {
+.header-text-wrapper h3 {
   color: white;
+  text-align: center;
+  padding-bottom: 40px;
 }
 
 .header-text1 {
+  text-align: center;
   color: #78c2c0;
-  font-size: 18vw;
+  font-size: 16vw;
   font-family: Snell Roundhand, cursive;
+  margin-bottom: -50px;
 }
 
 /************** SPECIAL *************/
