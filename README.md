@@ -1,6 +1,6 @@
 # apquinn.github.io
 
-## This is Andrew Quinn's github homepage. For a complete bio, see <a href="http://sea-quinn.com">my full bio</a>.
+## This is Andrew Quinn's github homepage. For a complete bio, see <a href="https://apquinn.github.io">my full bio</a>.
 <img src="CIMG0130.JPG" width="400">
 <img src="blockie2.jpg">
 
