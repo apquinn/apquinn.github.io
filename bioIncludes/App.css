@@ -39,7 +39,7 @@ body {
 .header-text-wrapper h3 {
   color: white;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 }
 
 .header-text1 {
@@ -48,6 +48,22 @@ body {
   font-size: 16vw;
   font-family: Snell Roundhand, cursive;
   margin-bottom: -50px;
+}
+
+.header-contact {
+  color: white;
+  text-align: center;
+  padding-bottom: 60px;
+  font-size:smaller;
+}
+
+.header-contact a {
+  color:white;
+  text-decoration: none;
+}
+
+.header-contact a:hover {
+  text-decoration: underline;
 }
 
 /************** SPECIAL *************/
