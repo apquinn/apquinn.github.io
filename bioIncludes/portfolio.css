@@ -32,7 +32,6 @@ body {
 }
 
 .header-black-background {
-   background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
    background-color: black;
    no-repeat; 
   width: 100%; 
@@ -82,11 +81,5 @@ body {
 
 /************** Footer *************/
 .footer-black-background {
-  background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
-  background-color: black;
-  no-repeat; 
-  width: 100%; 
-  background-size: 100%;
   margin-top:70px;
 }
-
