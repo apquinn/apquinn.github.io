@@ -39,7 +39,8 @@ body {
 .header-text-wrapper h3 {
   color: white;
   text-align: center;
-  padding-bottom: 0px;
+  padding-bottom: 60px;
+
 }
 
 .header-text1 {
@@ -48,23 +49,21 @@ body {
   font-size: 16vw;
   font-family: Snell Roundhand, cursive;
   margin-bottom: -50px;
+/*
+  margin-top: -30px;
+*/
 }
 
-.header-contact {
-  color: white;
-  text-align: center;
-  padding-bottom: 60px;
-  font-size:smaller;
+
+.navbar {
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+.navbar-inverse {
+  background-color:black;
 }
 
-.header-contact a {
-  color:white;
-  text-decoration: none;
-}
-
-.header-contact a:hover {
-  text-decoration: underline;
-}
 
 /************** SPECIAL *************/
 .special-global-wrapper {
@@ -253,6 +252,10 @@ h4 {
   background: #5ec4c1;
 }
 
+.people-header {
+  font-size: smaller;
+}
+
 .people-text {
   color: #5ec4c1;
 }
@@ -326,6 +329,11 @@ h4 {
   text-align: center;
   color: #ffffff;
   cursor: pointer;
+  font-size: smaller;
+}
+
+.more-more-div a {
+  color: #ffffff;
 }
 
 @media only screen and (max-width: 1000px) {

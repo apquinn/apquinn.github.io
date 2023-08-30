@@ -1,0 +1,95 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+@media screen and (max-device-width: 1000px) {
+  body {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-device-width: 1000px) {
+  .header-text-wrapper h3 {
+    padding-top:20px;
+  }
+}
+
+.header-black-background {
+  background-color: black;
+}
+
+.header-text-wrapper h3 {
+  color: white;
+  text-align: center;
+  padding-bottom: 60px;
+
+}
+
+.header-text1 {
+  text-align: center;
+  color: #78c2c0;
+  font-size: 16vw;
+  font-family: Snell Roundhand, cursive;
+  margin-bottom: -50px;
+  margin-top: -30px;
+}
+
+
+.navbar {
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+.navbar-inverse {
+  background-color:black;
+}
+
+/************** GITHUB ***********/
+.image {
+  padding-top:40px;
+}
+
+.title {
+  font-weight: bold;
+  padding:10px;
+}
+
+.description {
+  text-align: left;
+}
+
+/************** Footer *************/
+.footer-black-background {
+  position: relative;
+  background-color: black;
+  margin-top: 60px;
+}
+.footer-black-background img {
+  opacity: 40%;
+}
+
+
+.responsive-icon {
+  height: auto;
+}
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
