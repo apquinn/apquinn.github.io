@@ -32,23 +32,28 @@ body {
 }
 
 .header-black-background {
+  background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
   background-color: black;
+  no-repeat; 
+ width: 100%; 
+ background-size: 100%;
+ padding-top: 50px;
 }
 
 .header-text-wrapper h3 {
-  color: white;
-  text-align: center;
-  padding-bottom: 60px;
+ color: white;
+ text-align: center;
+ padding-bottom: 60px;
 
 }
 
 .header-text1 {
-  text-align: center;
-  color: #78c2c0;
-  font-size: 16vw;
-  font-family: Snell Roundhand, cursive;
-  margin-bottom: -50px;
-  margin-top: -30px;
+ text-align: center;
+ color: white;
+ font-size: 10vw;
+ font-family: Snell Roundhand, cursive;
+ margin-bottom: -50px;
+ margin-top: -30px;
 }
 
 
@@ -408,68 +413,18 @@ h4 {
     flex-direction: column;
   }
 }
+
 /************** Footer *************/
 .footer-black-background {
-  position: relative;
-  background-color: black;
-}
-.footer-black-background img {
-  opacity: 20%;
-}
-
-.footer-wrapper {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  top: 0%;
-}
-.footer-text-seaquinn {
-  color: #5ec4c1;
-  font-size: 16vw;
-  font-family: Snell Roundhand, cursive;
-  text-align: center;
-  padding-right: 100px;
+  background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
+  no-repeat; 
+  width: 100%; 
+  background-size: 100%;
+  margin-top:70px;
 }
 
-.footer-text-contact {
-  font-size: larger;
-  padding-bottom: 8px;
-}
 
-.footer-text-contact {
-  color: white;
-  padding-left: 75px;
-  text-align: left;
-}
 
-.footer-contact-types {
-  padding-left: 75px;
-  text-align: left;
-  font-size: smaller;
-  color: white;
-  text-decoration: none;
-}
-
-a[href^="tel"] {
-  text-decoration: inherit;
-  color: inherit;
-}
-
-@media only screen and (max-width: 768px) {
-  .footer-text-seaquinn {
-    padding-right: 45px;
-  }
-  .footer-wrapper {
-    top: 0%;
-    margin-bottom: 30px;
-  }
-}
-
-@media only screen and (min-width: 769px) and (max-width: 991px) {
-  .footer-text-seaquinn {
-    padding-right: 75px;
-  }
-}
 
 .responsive-icon {
   height: auto;

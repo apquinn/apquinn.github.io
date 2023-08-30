@@ -32,7 +32,12 @@ body {
 }
 
 .header-black-background {
-  background-color: black;
+   background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
+   background-color: black;
+   no-repeat; 
+  width: 100%; 
+  background-size: 100%;
+  padding-top: 50px;
 }
 
 .header-text-wrapper h3 {
@@ -44,8 +49,8 @@ body {
 
 .header-text1 {
   text-align: center;
-  color: #78c2c0;
-  font-size: 16vw;
+  color: white;
+  font-size: 10vw;
   font-family: Snell Roundhand, cursive;
   margin-bottom: -50px;
   margin-top: -30px;
@@ -77,19 +82,10 @@ body {
 
 /************** Footer *************/
 .footer-black-background {
-  position: relative;
-  background-color: black;
-  margin-top: 60px;
-}
-.footer-black-background img {
-  opacity: 40%;
+  background-image: url(file:///Users/aquinn/Desktop/karate/apquinn.github.io/bioIncludes/pics/footer-background.jpg);
+  no-repeat; 
+  width: 100%; 
+  background-size: 100%;
+  margin-top:70px;
 }
 
-
-.responsive-icon {
-  height: auto;
-}
-.responsive-img {
-  width: 100%;
-  height: auto;
-}
