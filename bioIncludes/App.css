@@ -25,15 +25,14 @@ body {
   }
 }
 
-.header-black-background {
-  position: relative;
-  background-color: black;
-}
-.seaquinn {
-  opacity: 30%;
+@media screen and (min-device-width: 1000px) {
+  .header-text-wrapper h3 {
+    padding-top:20px;
+  }
 }
 
-.header-black-background img {
+.header-black-background {
+  background-color: black;
 }
 
 .header-text-wrapper h3 {
@@ -49,9 +48,7 @@ body {
   font-size: 16vw;
   font-family: Snell Roundhand, cursive;
   margin-bottom: -50px;
-/*
   margin-top: -30px;
-*/
 }
 
 
